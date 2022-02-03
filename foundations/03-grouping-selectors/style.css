@@ -1,0 +1,13 @@
+.first-b{
+background-color: black;
+color: white;
+}
+.second-b{
+background-color: yellow;
+color: black;
+}
+.first-b,
+.second-b{
+font-size: 28px;
+font-family: Arial, 'Times New Roman', sans-serif;
+}
